@@ -1,7 +1,7 @@
 package com.tasklist.system.domain.exception;
 
-public class ResourceNotMappedException extends RuntimeException{
-    public ResourceNotMappedException(String message) {
+public class ResourceMappingException extends RuntimeException{
+    public ResourceMappingException(String message) {
         super(message);
     }
 }

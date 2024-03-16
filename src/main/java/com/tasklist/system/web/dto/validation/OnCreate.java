@@ -1,2 +1,4 @@
-package com.tasklist.system.web.dto.validation;public interface OnCreate {
+package com.tasklist.system.web.dto.validation;
+
+public interface OnCreate {
 }

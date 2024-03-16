@@ -1,2 +1,7 @@
-package com.tasklist.system.domain.enums;public class TaskStatus {
+package com.tasklist.system.domain.enums;
+
+public enum TaskStatus {
+
+    TODO, IN_PROGRESS, DONE
+
 }
